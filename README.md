@@ -65,7 +65,7 @@
 ## ✈汇总
 
 <!-- 连续提交代码天数记录 -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lanxin1216&" alt="lanxin1216" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lanxin1216&" alt="lanxin1216" /></p>
 
 <!-- GitHub数据统计 -->
 
