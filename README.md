@@ -6,13 +6,11 @@
 
 ## Hello👋, I'm AlanK
 
-(｡･∀･)ﾉﾞ嗨！欢迎来到我的主页😜。
+(｡･∀･)ﾉﾞ Hi! Welcome to my homepage 😜.
+
+💻 When you calm down, you can be as peaceful as the sea. When you settle, you can observe freely with ease. A calm mind is clear, a settled mind is steady.
 
 💻沉下来能沉静如海，定下来，能静观自在，心静则清，心定则恒。
-
-后端开发以及大数据开发的小码。看不懂看不懂...
-
-✒写Bug、🀄找Bug、🛠改Bug...
 
 ## ✈汇总
 
